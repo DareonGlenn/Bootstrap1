@@ -8,3 +8,7 @@
 .break{
     height:25px;
 }
+
+.table-hover tr:hover td{
+    color: blue;
+}
